@@ -8,5 +8,6 @@ public class YourInitials {
         System.out.println("K K        S  R R");
         System.out.println("K  K   S   S  R  R");
         System.out.println("K   K   SSS   R   R");
+        
     }
 }
